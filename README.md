@@ -1,5 +1,5 @@
 
-# IA Generativa: O Início 🌌
+# Explorando a IA Generativa 🌌
 
 ## 📒 Descrição
 Este e-book mapeia e introduz alguns pontos da IA generativa como LLM e engenharia de prompt.
