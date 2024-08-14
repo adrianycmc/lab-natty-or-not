@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo introdutório trazendo alguns pontos pertinentes no mundo da IA Generativa. 
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/adrianycmc/lab-natty-or-not/blob/main/ebook.md)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
